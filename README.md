@@ -1,14 +1,35 @@
-[![CircleCI](https://img.shields.io/badge/build-circleci-343434?logo=circleci&logoColor=343434)](https://circleci.com/gh/hanggrian/)
-[![Codecov](https://img.shields.io/badge/coverage-codecov-f01f7a?logo=codecov&logoColor=f01f7a)](https://codecov.io/gh/hanggrian/)
-[![Docker Hub](https://img.shields.io/badge/docker-docker--hub-2496ed?logo=docker&logoColor=2496ed)](https://hub.docker.com/u/hanggrian/)
-[![Maven Central](https://img.shields.io/badge/maven-maven--central-c71a36?logo=apache-maven&logoColor=c71a36)](https://repo1.maven.org/maven2/com/hanggrian/)
-[![Plugin Portal](https://img.shields.io/badge/gradle-plugin--portal-02303a?logo=gradle&logoColor=02303a)](https://plugins.gradle.org/u/hanggrian/)
-[![Package Index](https://img.shields.io/badge/pip-pypi-3775a9?logo=pypi&logoColor=3775a9)](https://pypi.org/u/hanggrian/)
+# Hi, I'm Hendra <img width="48" src="https://iam-weijie.github.io/wave/hand-emoji.svg">
 
-[![Waving hand](https://iam-weijie.github.io/wave/hand-emoji.svg)](#)
+> [!NOTE]
+  Currently studying Computer Science at *Illinois Institute of Technology.*
 
-### Hi there
+I am a Java and Python developer who loves cross-platform tools and development.
+I believe in open source; some of the best software is made by the community
+at no cost.
 
-I'm Hendra, a
-[![Dark typing titles](https://readme-typing-svg.demolab.com?font=monospace&size=14&pause=1000&color=fff&background=121212&center=true&vCenter=true&width=150&height=20&lines=software+engineer;gamer;good+person)](#)
-from Indonesia.
+- <img
+    width="16"
+    height="16"
+    alt="Linux" src="https://cdn.simpleicons.org/archlinux"/>
+  I am a member of the cult of Arch Linux
+- <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.simpleicons.org/apple/white"/>
+    <img
+      width="16"
+      height="16"
+      alt="Apple"
+      src="https://cdn.simpleicons.org/apple"/>
+  </picture>
+  I design graphics and user interfaces for macOS
+- <img
+    width="16"
+    height="16"
+    alt="Windows"
+    src="windows.svg"/>
+  I play video games on Windows
+
+[![Figma](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffigma.com%2F%40hanggrian&subtitle=%40hanggrian&size=square)](https://figma.com/@hanggrian) | [![Layers](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flayers.to%2Fhanggrian&subtitle=%40hanggrian&size=square)](https://layers.to/hanggrian) | [![CircleCI](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicircleci&subtitle=hanggrian&size=square)](https://circleci.com/gh/hanggrian/) | [![Codecov](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicodecov&subtitle=hanggrian&size=square)](https://codecov.io/gh/hanggrian/)
+--- | --- | --- | ---
+[![Maven Central](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siapachemaven&subtitle=com.hanggrian&size=square)](https://repo1.maven.org/maven2/com/hanggrian/) | [![Plugin Portal](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigradle&subtitle=com.hanggrian&size=square)](https://plugins.gradle.org/u/hanggrian/) | [![Package Index](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sipypi&subtitle=hanggrian&size=square)](https://pypi.org/u/hanggrian/) | [![Docker](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sidocker&subtitle=hanggrian&size=square)](https://hub.docker.com/u/hanggrian/)
